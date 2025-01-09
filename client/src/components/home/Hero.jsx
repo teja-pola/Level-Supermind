@@ -25,9 +25,9 @@ function App() {
                 ANALYZE <ArrowRight size={20} />
               </button></a>
             
-              <button className="border border-[#30363D] bg-transparent text-white px-6 py-3 rounded-lg font-medium flex items-center gap-2">
+              <a href="https://github.com/teja-pola/Level-Supermind.git"><button className="border border-[#30363D] bg-transparent text-white px-6 py-3 rounded-lg font-medium flex items-center gap-2">
                 <Github size={20} /> GITHUB
-              </button>
+              </button></a>
             </div>
           </div>
 

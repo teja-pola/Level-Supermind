@@ -45,7 +45,7 @@ const Footer = () => {
           </p>
           <div className="flex gap-4">
             <a
-              href="#"
+              href="https://github.com/teja-pola/Level-Supermind.git"
               className="text-gray-400 hover:text-white transition duration-200">
               <Github size={20} />
             </a>
