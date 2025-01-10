@@ -1,7 +1,8 @@
 # 🚀 Social Media Performance Analytics Tool  
 
 This is a full-stack application built using Vite that helps users analyze the performance of their social media accounts. The tool provides insights into engagement, reach, and other metrics while leveraging AstraDB for data storage and LangFlow for flow-based data processing.
-![Thumbnail](cloient/public/Thumbnail.png)
+
+![Thumbnail](client/public/Thumbnail.png)
 ---
 
 ## Features  
