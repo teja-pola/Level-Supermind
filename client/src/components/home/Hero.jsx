@@ -88,7 +88,7 @@ function App() {
 
               <a href ="https://youtu.be/-ZE11Jqduhc?feature=shared"><button className="bg-[#409E0F] text-white px-6 py-3 rounded-lg font-medium flex items-center gap-2">
                 Watch on YouTube <ArrowRight size={20} />
-              </button></a>>
+              </button></a>
             </div>
           </div>
         </div>
