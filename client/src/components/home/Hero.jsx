@@ -56,7 +56,7 @@ function App() {
             <iframe
               width="100%"
               height="100%"
-              src="https://www.youtube.com/embed/JxbcuRqyps8?si=c80RiRymFmV4TwKd"
+              src="https://www.youtube.com/embed/-ZE11Jqduhc?si=7d9yWjAR4iQGCrFz"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -86,9 +86,9 @@ function App() {
                 </div>
               </div>
 
-              <button className="bg-[#409E0F] text-white px-6 py-3 rounded-lg font-medium flex items-center gap-2">
+              <a href ="https://youtu.be/-ZE11Jqduhc?feature=shared"><button className="bg-[#409E0F] text-white px-6 py-3 rounded-lg font-medium flex items-center gap-2">
                 Watch on YouTube <ArrowRight size={20} />
-              </button>
+              </button></a>>
             </div>
           </div>
         </div>
